@@ -1,3 +1,6 @@
 Hello
 First line 1
+Second line
+Third line is added 
+
 This is second branch update
